@@ -8,6 +8,8 @@ I build tools whenever something feels slow, broken, or just annoying.
 - 🏷️ **[typed-config-plugins](https://github.com/WookieFPV/typed-config-plugins)**: bring type-safety to your Expo Config Plugins
 
 ### 🛠 JS & CLI Tooling
+
+- ⚛️ **[use-entity](https://github.com/WookieFPV/use-entity)**: `useState` but with CRUD actions for normalized entity collections
 - 🧐 **[npm-peek](https://github.com/WookieFPV/npm-peek)**: diff installed npm deps vs newer registry versions in one glance
 - 📦 **[bitrise-api-cli](https://github.com/WookieFPV/bitrise-api-cli)**: pull Bitrise build artifacts without clicking through the UI  
 - 🏗️ **[cli-starter](https://github.com/WookieFPV/cli-starter)**: my go-to boilerplate for spinning up TypeScript CLIs
