@@ -13,8 +13,3 @@ I build tools whenever something feels slow, broken, or just annoying.
 - 🧐 **[npm-peek](https://github.com/WookieFPV/npm-peek)**: diff installed npm deps vs newer registry versions in one glance
 - 📦 **[bitrise-api-cli](https://github.com/WookieFPV/bitrise-api-cli)**: pull Bitrise build artifacts without clicking through the UI  
 - 🏗️ **[cli-starter](https://github.com/WookieFPV/cli-starter)**: my go-to boilerplate for spinning up TypeScript CLIs
-
-### 🎧 Still can’t quit TeamSpeak 3
-- 🌐 **[teamspeak-web-viewer](https://github.com/WookieFPV/teamspeak-web-viewer)**: pretty web dashboard for your TS3 servers  
-- ⚡ **[teamspeak-api-server](https://github.com/WookieFPV/teamspeak-api-server)**: REST/WS APIs for TS3, built with Hono  
-- 📺 **[teamspeak-streamdeck-viewer](https://github.com/WookieFPV/teamspeak-streamdeck-viewer)**: real-time status monitor for Elgato Stream Deck and Raspberry Pi setups
