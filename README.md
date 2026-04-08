@@ -11,5 +11,6 @@ I build tools whenever something feels slow, broken, or just annoying.
 
 - ⚛️ **[use-entity](https://github.com/WookieFPV/use-entity)**: `useState` but with CRUD actions for normalized entity collections
 - 🧐 **[npm-peek](https://github.com/WookieFPV/npm-peek)**: diff installed npm deps vs newer registry versions in one glance
+- 🔐 **[pkg-audit-fix](https://github.com/WookieFPV/pkg-audit-fix)**: audit deps and run native fix flows across `pnpm`, `npm`, `yarn`, and `bun`
 - 📦 **[bitrise-api-cli](https://github.com/WookieFPV/bitrise-api-cli)**: pull Bitrise build artifacts without clicking through the UI  
 - 🏗️ **[cli-starter](https://github.com/WookieFPV/cli-starter)**: my go-to boilerplate for spinning up TypeScript CLIs
